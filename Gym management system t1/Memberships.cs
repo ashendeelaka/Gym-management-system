@@ -96,7 +96,7 @@ namespace Gym_management_system_t1
                     con.setData(query);
                     ShowMShips();
                     MessageBox.Show("Membership deleted !!!");
-                    Reset();
+                    //Reset();
                 }
             }
             catch (Exception Ex)
@@ -131,6 +131,34 @@ namespace Gym_management_system_t1
             {
                 MessageBox.Show(Ex.Message);
             }
+        }
+
+        private void btnLogOut_Click(object sender, EventArgs e)
+        {
+            Login Obj = new Login();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void btnReceptionist_Click(object sender, EventArgs e)
+        {
+            Receptionists Obj = new Receptionists();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void btnPayment_Click(object sender, EventArgs e)
+        {
+            Payment Obj = new Payment();
+            Obj.Show();
+            this.Hide();
+        }
+
+        private void btnCoach_Click(object sender, EventArgs e)
+        {
+            Coaches Obj = new Coaches();
+            Obj.Show();
+            this.Hide();
         }
     }
 }

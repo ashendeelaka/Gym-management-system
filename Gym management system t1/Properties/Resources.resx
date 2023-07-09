@@ -118,14 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="password-22" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Pictures\password-22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="10756501" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\10756501.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="user-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Pictures\user-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="weightlifter" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\weightlifter.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngtree-muscle-icon-fitness-gym-logo-design-commercial-png-image_7190697" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-muscle-icon-fitness-gym-logo-design-commercial-png-image_7190697.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="4753726_bank_bill_finance_invoice_money_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4753726_bank_bill_finance_invoice_money_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="membership" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\membership.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gym-playlist-cover-syc83" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gym-playlist-cover-syc83.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="power-house-gym-logo-png-transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\power-house-gym-logo-png-transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="image_processing20210616-14620-1psvo3n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\image_processing20210616-14620-1psvo3n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,10 +142,40 @@
   <data name="585e4bf3cb11b227491c339a" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\585e4bf3cb11b227491c339a.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="power-house-gym-logo-png-transparent1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\power-house-gym-logo-png-transparent1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gym" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gym.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3383449_assistant_counter_customer_desk_information_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3383449_assistant_counter_customer_desk_information_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gym-playlist-cover-syc831" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gym-playlist-cover-syc831.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="password-22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\password-22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="60016869939b1c17a239f2f1_fitness-plus-gym" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\60016869939b1c17a239f2f1_fitness-plus-gym.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="power-house-gym-logo-png-transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\power-house-gym-logo-png-transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngtree-muscle-icon-fitness-gym-logo-design-commercial-png-image_7190697" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-muscle-icon-fitness-gym-logo-design-commercial-png-image_7190697.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3005766_account_door_exit_logout_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3005766_account_door_exit_logout_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gym-playlist-cover-syc832" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gym-playlist-cover-syc832.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gym1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gym1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user-128" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\user-128.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="power-house-gym-logo-png-transparent2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\power-house-gym-logo-png-transparent2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
